@@ -1,0 +1,12 @@
+.Slider {
+    display: flex;
+    margin-top: 120px;
+    margin-bottom: 240px;
+    padding: 80px 20px 80px 20px;
+    height: 1400px;
+    width: 90%;
+    border-radius: 15px;
+    box-shadow: 0 0 1em #5b86e5;
+    background: #36d1dc1e;
+    overflow: auto;
+}

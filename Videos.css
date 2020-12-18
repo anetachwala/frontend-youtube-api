@@ -1,0 +1,28 @@
+.Videos {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 1800px;
+    height: 1400px;
+    margin: 10px 30px 10px 30px;
+}
+
+.Videos-video {
+    width: 320px;
+    height: 400px;
+    margin: 20px 10px 10px 10px;
+    padding: 10px;
+    border: 2px solid #5b87e52a;
+    border-radius: 10px;
+    background-color: #5b87e53d;
+}
+
+img {
+    border: 1px solid rgba(0, 0, 0, 0.363);
+    border-radius: 10px;;
+}
+
+h3, p {
+    text-align: left;
+}
+

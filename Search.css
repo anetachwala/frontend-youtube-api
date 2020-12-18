@@ -1,0 +1,26 @@
+.Search {
+    color: red;
+}
+
+.Search-input {
+    background: #36d1dc38;
+    font-size: 1.2rem;
+    height: 40px;
+    width: 250px;
+    border: none;
+    border-radius: 20px;
+    padding-left: 15px;
+
+}
+
+.Search-button {
+    background: linear-gradient(to right, #36d1dc, #5b86e5);;
+    font-size: 1.2rem;
+    width: 100px;
+    height: 42px;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    right: 34px;
+    cursor: pointer;
+}
